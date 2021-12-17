@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
     inputs:
       ssh:
-        description: 'true'
+        description: 'false'
         required: false
         default: 'false'
 
